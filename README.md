@@ -65,7 +65,8 @@ Elle prend en charge la saisie double : à la fois à l'aide des clics de souris
 ## 📸 Captures d'Écran
 
 | Démo en direct de calcul, erreur, etc. |
-![Démo en direct](https://github.com/Jmtamayocruz/calculator/edit/mainassets/calculator.gif)
+| :--- |
+![Démonstration de la calculatrice](assets/calculator.gif)
 
 ---
 
