@@ -64,15 +64,13 @@ Elle prend en charge la saisie double : à la fois à l'aide des clics de souris
 
 ## 📸 Captures d'Écran
 
-*(Insère tes captures d'écran ici une fois publiées dans ton dépôt)*
-
-| Écran Principal | Calcul en Cours | Affichage d'Erreur |
-| :---: | :---: | :---: |
-| ![Interface Calculatrice](https://via.placeholder.com/250x380.png?text=Calculatrice+Accueil) | ![Calcul en cours](https://via.placeholder.com/250x380.png?text=Calcul+En+Cours) | ![Gestion des erreurs](https://via.placeholder.com/250x380.png?text=Affichage+Erreur) |
+| Démo en direct de calcul, erreur, etc. |
+| :---: | 
+| ![Démo en direct](https://github.com/user-attachments/assets/a75fb116-0cb7-4263-a5f6-2786bea4bfe7) |
 
 ---
 
 ## 👤 Auteur & Crédits
 
-* **Développé par** : [Joaquin](https://github.com/ton-username)
+* **Développé par** : [Joaquin](https://github.com/Jmtamayocruz)
 * **Contexte** : Projet d'entraînement personnel réalisé dans le cadre de la préparation à la formation **Web Dev Full Stack**.
